@@ -1,0 +1,182 @@
+/* Media queries */
+@media screen and (max-width: 1000px) {
+    .contain {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  @media screen and (max-width: 1320px){
+    .carousel{
+      height:550px;
+    }
+    .msg {
+      font-size: 2rem;
+      float: right;
+      margin-top: -4rem;
+      margin-right: 3rem;
+    }
+    .story,
+  .abt-img,
+  .desc{
+    height: 500px;
+  }
+  }
+  @media screen and (max-width: 1240px){
+    .carousel{
+      height:550px;
+    }
+    .story p {
+      /* margin-left: 5.5rem; */
+      margin-right: 3.5rem;
+    }
+    .story,
+  .abt-img,
+  .desc {
+    height: 500px;
+  }
+  }
+  @media screen and (max-width: 1120px) {
+  .story h3 {
+    margin-top: 2.5rem;  
+    margin-left:3.5rem;
+  }
+  .story p {
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+  }
+  
+  }
+  
+  @media screen and (max-width: 1000px){
+    .story,
+  .abt-img,
+  .desc {
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   
+  } 
+  .story h3 {
+    margin-left :unset;
+    text-align: center;
+  }
+  .story p {
+    
+  }
+    .msg {
+      float: right;
+      margin-top: -4rem;
+    }
+    .story p ,.desc p{
+      margin-left: 4.5rem;
+      margin-right: 4.5rem;
+      /* text-align: center; */
+    }
+    .carousel{
+      height:550px;
+    }
+    .testimonial {
+      font-size: 1rem;
+    }
+    .inc {
+      font-size: 1rem;
+    }
+    .overview span {
+      font-size: 1.2rem;
+    }
+    
+  }
+  @media screen and (max-width: 640px){
+    .story,
+  .abt-img,
+  .desc {
+    height: 500px;
+  }
+  }
+  @media screen and (max-width: 540px){
+    .carousel {
+      height: 550px;
+    }
+    .msg {
+       font-size: 1.5rem;
+  }
+  .carousel-control i {
+    font-size: 50px;
+  }
+  
+  }
+  
+  @media screen and (max-width: 470px){
+    .carousel {
+      height: 550px;
+    }
+    .msg {
+       font-size: 1.5rem;
+  }
+  .story{
+    height:450px;
+  }
+  .story p {
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+  }
+  .desc p {
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+  }
+  .fa-angle-left {
+    margin-top: -200px;}
+  
+  }
+  @media screen and (max-width: 410px){
+    .story p,.desc p{
+      font-size: 0.92rem;
+    }
+    .testimonial {
+      font-size: 0.9rem;
+    }
+    .inc {
+      font-size: 1rem;
+    }
+    .overview span {
+      font-size: 1.2rem;
+    }
+    .fa-angle-left {
+      margin-top: -205px;
+      margin-right: 20px;
+    }
+    .fa-angle-right {
+      margin-top: -198px;
+      margin-right: 20px;
+    }
+    .carousel{
+      padding-left: 32px;
+  padding-right: 30px
+    }
+  }
+  @media screen and (max-width: 360px){
+    .carousel{
+      padding-left: 40px;
+  padding-right: 40px
+    }
+  }
+  @media screen and (max-width: 315px){
+    .story{
+      height:32rem;
+    }
+    .carousel {
+      height: 550px;
+      padding-left: 35px;
+      padding-right: 35px
+    }
+    .carousel-item{
+      margin-left: unset;
+    }
+    .msg {
+       font-size: 1.5rem;
+    }
+    .fa-angle-left {
+      margin-top: -180px;}
+  }
+  
