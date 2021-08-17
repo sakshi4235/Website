@@ -276,6 +276,9 @@ color: #FFFFFF;
     margin-bottom: 0;
     margin-right:0;
   }
+  .footer{
+  padding-left:0;
+}
   .column4{
     padding-top: 0;
   }
