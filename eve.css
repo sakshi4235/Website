@@ -270,7 +270,11 @@ html,body{
   
   @media only screen and (max-width: 740px) {
     .event_container  {
-      grid-template-columns: 1fr 1fr;}}
+      grid-template-columns: 1fr 1fr;}
+    .cards{
+        grid-gap: unset;
+        margin: unset;
+      }}
   
   @media only screen and (max-width: 540px) {
     .event_container  {
@@ -278,6 +282,6 @@ html,body{
       .cards{
         grid-gap: unset;
         padding: unset;
-        padding-right: 10px;
+/*         padding-right: 10px; */
       }
       }
