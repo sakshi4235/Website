@@ -143,7 +143,84 @@ html,body{
   height:600px;
 }
 
+@media only screen and (max-width: 960px) {
+    .column1,.column,.column2,.column4,.column3{
+      width: 100%;
+    }
+    .column,.column3,.middle,.achieve{
+      height:500px;
+    }
+    .archives,.milestones{
+      height:600px;
+    }
+  
+    .achieve,.left,.middle{
+      padding:18% 5% 9% 7%;
+    }
+    .upcoming,.pic{
+      height:600px;
+    }
+  
+  }
 
+  @media only screen and (max-width: 960px) {
+    .sm-icons .nav-item {
+      padding-right: 1em;
+    }
+  }
+
+  @media only screen and (max-width: 960px) {
+    .discover,.recent-events,.foru,.locate{
+      padding-left:0;
+      padding-top: 0;
+      text-align: center;
+      margin-bottom: 1rem;
+      margin-right:0;
+    }
+    .footer{
+      padding-left:0px;
+    }
+   .footer_logo{
+     margin-left: auto;
+     margin-right: auto;
+   }
+    .locate p,.locate div{
+      margin-left: auto;
+     margin-right: auto;
+     padding-left:0;
+    padding-bottom: 10px;
+    }
+.recent-events ul,.foru ul{
+    margin-bottom: 0;
+    }
+  .discover,.recent-events,.foru{
+    margin-left:0;
+    margin-right: 0;
+  }
+  .left-contact,.right-contact{
+    width: 100%;
+  }
+  .right-form,.left-contact{
+    width: 100%;
+    padding:50%;
+  }
+  .form-contact,.right-contact{
+    padding:9% 8% 0 5%;
+  }
+  .form-cont{
+    margin-top:1.5rem;
+  }
+  }
+
+  @media only screen and (max-width: 960px) {
+    .flex-container {
+      flex-direction: column;
+    }
+    .flex-item-right,.sponsorship-image{
+      padding:50%;
+    }
+  }
+  
 .row1:after,.row2:after,.row:after,.row3:after {
   content: "";
   display: table;
