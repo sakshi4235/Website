@@ -290,6 +290,9 @@ color: #FFFFFF;
    padding-left:0;
   padding-bottom: 10px;
   }
+  .discover li,.recent-events li,.foru li{
+  padding-top:10px;
+}
   .discover ul,.recent-events ul,.foru ul{
   margin-bottom: 0;
   }
