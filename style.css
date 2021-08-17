@@ -47,11 +47,7 @@ html,body{
 .sm-icons {
   flex-direction: row;
 }
-@media only screen and (max-width: 960px) {
-  .sm-icons .nav-item {
-    padding-right: 1em;
-  }
-}
+
 .logo {
   margin-left: 2em;
   height:4em;
@@ -61,7 +57,7 @@ html,body{
   background: url(img/header-image.jpeg);
   background-size: 100% 100%;
   height:500px;
-  widht:100%;
+  width:100%;
 }
 .column {
   float: left;
@@ -153,25 +149,7 @@ html,body{
   display: table;
   clear: both;
 }
-@media only screen and (max-width: 960px)  {
-  .column1,.column,.column2,.column4,.column3{
-    width: 100%;
-  }
-  .column,.column3,.middle,.achieve{
-    height:500px;
-  }
-  .archives,.milestones{
-    height:600px;
-  }
 
-  .achieve,.left,.middle{
-    padding:18% 5% 9% 7%;
-  }
-  .upcoming,.pic{
-    height:600px;
-  }
-
-}
 .column1 img,.column2 img{
   height:25rem;
   width:100%;
@@ -267,58 +245,6 @@ color: #FFFFFF;
   font-weight: 700;
   font-size: 14px;
   padding-left: 20px;
-}
-@media only screen and (max-width: 960px)  {
-  .discover,.recent-events,.foru,.locate{
-    padding-left:0;
-    padding-top: 0;
-    text-align: center;
-    margin-bottom: 0;
-    margin-right:0;
-  }
-  .footer{
-  padding-left:0;
-}
-  .column4{
-    padding-top: 0;
-  }
- .footer_logo{
-   margin-left: auto;
-   margin-right: auto;
- }
-  .locate p,.locate div{
-    width:100%;
-    margin-left: auto;
-   margin-right: auto;
-   padding-left:0;
-  padding-bottom: 10px;
-  }
-  .discover li,.recent-events li,.foru li{
-  padding-top:10px;
-}
-  .discover ul,.recent-events ul,.foru ul{
-  margin-bottom: 0;
-  }
-  .discover ul,.recent-events ul,.foru ul{
-  margin-bottom:10px;
-}
-.discover,.recent-events,.foru{
-  margin-left:0;
-  margin-right: 0;
-}
-.left-contact,.right-contact{
-  width: 100%;
-}
-.right-form,.left-contact{
-  width: 100%;
-  padding:50%;
-}
-.form-contact,.right-contact{
-  padding:9% 8% 0 5%;
-}
-.form-cont{
-  margin-top:1.5rem;
-}
 }
 
 .form-cont{
@@ -574,15 +500,7 @@ font-weight: 500;
   background-size: 100% 100%;
   flex: 50%;
 }
-/* Responsive layout - makes a one column-layout instead of two-column layout */
-@media only screen and (max-width: 960px)  {
-  .flex-container {
-    flex-direction: column;
-  }
-  .flex-item-right,.sponsorship-image{
-    padding:50%;
-  }
-}
+
 
 .form-heading{
   font-family: Poppins;
