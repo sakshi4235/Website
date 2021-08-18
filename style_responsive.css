@@ -9,6 +9,9 @@
       height:600px;
     }
   
+    .header_image{
+        background-size:100%;
+    }
     .achieve,.left,.middle{
       padding:18% 5% 9% 7%;
     }
