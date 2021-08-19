@@ -61,9 +61,7 @@
     margin-left :unset;
     text-align: center;
   }
-  .story p {
-    
-  }
+  
     .msg {
       float: right;
       margin-top: -4rem;
@@ -85,7 +83,16 @@
     .overview span {
       font-size: 1.2rem;
     }
-    
+    .fa-angle-right {
+      margin-top: -17rem;
+      margin-left: -1rem;
+    }
+  }
+  @media only screen and (max-width: 960px) {
+    .fa-angle-left {
+      margin-top:  -28rem;
+      margin-right: 2rem;
+    }
   }
   @media screen and (max-width: 640px){
     .story,
@@ -103,6 +110,9 @@
   }
   .carousel-control i {
     font-size: 50px;
+  }
+  .fa-angle-left {
+    margin-top:  -27rem;
   }
   
   }
@@ -126,7 +136,9 @@
     margin-right: 2.5rem;
   }
   .fa-angle-left {
-    margin-top: -200px;}
+    margin-top:  -25rem;
+    margin-left: 1rem;
+  }
   
   }
   @media screen and (max-width: 410px){
@@ -143,12 +155,10 @@
       font-size: 1.2rem;
     }
     .fa-angle-left {
-      margin-top: -205px;
-      margin-right: 20px;
+      margin-top:  -31rem;
     }
     .fa-angle-right {
-      margin-top: -198px;
-      margin-right: 20px;
+      margin-top:  -24rem;
     }
     .carousel{
       padding-left: 32px;
@@ -159,6 +169,13 @@
     .carousel{
       padding-left: 40px;
   padding-right: 40px
+    }
+    .fa-angle-left {
+      margin-top:  -30rem;
+      margin-right: -0.8rem;
+    }
+    .fa-angle-right {
+      margin-left: -1.2rem;
     }
   }
   @media screen and (max-width: 315px){
@@ -177,6 +194,8 @@
        font-size: 1.5rem;
     }
     .fa-angle-left {
-      margin-top: -180px;}
+      margin-top:  -31rem;
+    }
+    
   }
   
