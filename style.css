@@ -56,7 +56,7 @@ html,body{
 .header-image{
   background: url(img/cover_pratibimbweb.png) no-repeat;
   background-size: cover;
-  height:500px;
+  height:550px;
 }
 .column {
   float: left;
