@@ -10,7 +10,7 @@
     }
   
     .header_image{
-        background-size:100%;
+        background-size:cover;
     }
     .achieve,.left,.middle{
       padding:18% 5% 9% 7%;
