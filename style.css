@@ -54,7 +54,7 @@ html,body{
 }
 
 .header-image{
-  background: url(img/header-image.jpeg);
+  background: url(img/header-image.jpeg) no-repeat;
   background-size: 100% 100%;
   height:500px;
   width:100%;
