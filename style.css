@@ -55,7 +55,7 @@ html,body{
 
 .header-image{
   background: url(img/cover_pratibimbweb.png) no-repeat;
-  background-size: 100%;
+  background-size: cover;
   height:500px;
 }
 .column {
