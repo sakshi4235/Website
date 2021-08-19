@@ -518,7 +518,7 @@ font-weight: bold;
 color: #E0E0E0;
 box-sizing: border-box;
   padding-top:0;
-  margin-right:10px;
+  margin-right:8px;
 }
 
 .submit{
@@ -540,7 +540,7 @@ font-weight: 500;
 }
 
 .flex-item-left {
-  padding:3% 8% 5% 5%;
+  padding:3% 4% 5% 5%;
   background: #2B2929;
   flex: 50%;
 }
