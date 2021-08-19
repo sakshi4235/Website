@@ -518,6 +518,7 @@ font-weight: bold;
 color: #E0E0E0;
 box-sizing: border-box;
   padding-top:0;
+  margin-right:10px;
 }
 
 .submit{
