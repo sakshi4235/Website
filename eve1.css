@@ -55,6 +55,10 @@
     .video_container .video .active{
         width: 60%;
     }
+    .video_container .video video:hover{
+        transition: none;
+        transform: scale(1);
+    }
 }
 @media screen and (max-width: 500px){
     .video_container .video .active{
