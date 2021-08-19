@@ -11,7 +11,7 @@
   
     .header_image{
         background-size:100%;
-        background-image:url(img/mobile_cover.jpg) no-repeat;
+        height:300px;
     }
     .achieve,.left,.middle{
       padding:18% 5% 9% 7%;
