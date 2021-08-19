@@ -116,11 +116,12 @@
     text-shadow: 0 3px 3px #e6e6e6, 0 0 0 #000;
   }
   .fa-angle-left {
-    margin-top: -202px;
-    margin-right: 40px;
+    margin-top:  -20rem;
+    margin-right: 2rem;
   }
   .fa-angle-right {
-    margin-top: -160px;
+    margin-top: -14rem;
+    margin-left: -1rem;
   }
   .carousel .carousel-indicators {
     bottom: -40px;
