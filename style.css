@@ -127,12 +127,12 @@ html,body{
   height:600px;
 }
 .upcoming{
-  background: url(img/sandclock.png);
+  background: url(img/sandclock.png) no-repeat;
   background-size: 100% ;
   position: relative;
 }
 .pic{
-  background: url(img/Rectangle.png);
+  background: url(img/Rectangle.png) no-repeat;
   background-size: 100%;
   position: relative;
 }
@@ -400,12 +400,12 @@ color: #FFFFFF;
 
 .left-contact {
   flex: 50%;
-  background:url(img/martix.png);
+  background:url(img/martix.png) no-repeat;
   background-size:100%;
 }
 .right-form{
   flex: 50%;
-  background:url(img/contact.png);
+  background:url(img/contact.png) no-repeat;
   background-size: 100%;
 }
 .form-contact{
@@ -546,18 +546,18 @@ font-weight: 500;
 }
 
 .flex-item-right {
-  background:url(img/Sponsorship-1.png);
+  background:url(img/Sponsorship-1.png) no-repeat;
   background-size: 100%;
   flex: 50%;
 }
 .sponsorship-image{
-  background:url(img/sponsor.png);
+  background:url(img/sponsor.png) no-repeat;
   background-size: 100%;
   flex: 50%;
 }
 
 .member-gs{
-  background:url(img/member-1.png);
+  background:url(img/member-1.png) no-repeat;
   background-size: 100%;
   flex: 50%;
 }
@@ -574,7 +574,7 @@ font-weight: 500;
   margin-bottom: 2rem;
 }
 .member-nongs{
-  background:url(img/member-2.png);
+  background:url(img/member-2.png) no-repeat;
   background-size: 100%;
   flex: 50%;
 }
