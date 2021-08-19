@@ -83,7 +83,7 @@ html,body{
 }
 .right {
   width: 50%;
-  background: url(img/events.png);
+  background: url(img/events.png) no-repeat;
   background-size: 100%;
 }
 
