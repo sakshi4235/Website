@@ -24,7 +24,9 @@
     .left{
   padding:5% 9% 5% 5%;
 }
-  
+  .meraki{
+      padding:50%;
+    }
   }
 
   @media only screen and (max-width: 960px) {
