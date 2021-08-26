@@ -53,20 +53,7 @@ html,body{
   height:4em;
 }
 
-.header-image{
-  background: url(img/merakki_banner_homepage.png);
-  background-size: 100% 100%;
-  height:600px;
-  width:100%;
-  cursor:pointer;
-}
-.new-image{
-  background: url(img/merakki_banner_eventpage.png);
-  background-size: 100% 100%;
-  height:600px;
-  width:100%;
-  cursor:pointer;
-}
+
 .column {
   float: left;
   height: 600px;
@@ -674,18 +661,18 @@ color: #1FE0BD;
   margin-left: 1.5rem;
 }
 
-.meraki-event{
+.meraki-event,.header-image{
   position:relative;
   
 }
-.meraki-main-image{
+.meraki-main-image,.event-main-image{
   width:100%;
   top: 0;
   left: 0;
   z-index:0;
 }
 
-.meraki-button{
+.meraki-button,.event-button{
   max-width:100%;
   position:absolute;
   top: 400px;
@@ -693,6 +680,6 @@ color: #1FE0BD;
   right: 100px;
 }
 
-.meraki-mobile{
+.meraki-mobile,.event-mobile{
   display:none;
 }
