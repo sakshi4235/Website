@@ -10,7 +10,7 @@
     }
   
     .new-image{
-        background: url(img/mobile_banner_eventpage.png)
+        background: url(img/mobile_banner_eventpage.png);
   background-size:100% 100%;
   height:420px;
   width:100%;
