@@ -9,12 +9,7 @@
       height:600px;
     }
   
-    .new-image{
-        background: url(img/mobile_banner_eventpage.png);
-  background-size:100% 100%;
-  height:420px;
-  width:100%;
-}
+    
     
     .header-image{
         background: url(img/mobile_banner_homepage.png);
@@ -32,9 +27,7 @@
     .left{
   padding:7% 9% 5% 5%;
 }
-  .meraki{
-      padding:50%;
-    }
+  
   }
 
   @media only screen and (max-width: 960px) {
