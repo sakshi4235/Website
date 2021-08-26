@@ -93,5 +93,10 @@
     .flex-item-right,.sponsorship-image{
       padding:50%;
     }
+      
+      .meraki-button{
+      top: 55%;
+      right: 5%;
+    }
   }
   
