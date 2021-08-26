@@ -667,12 +667,20 @@ color: #1FE0BD;
   z-index:0;
 }
 
-.meraki-button,.event-button{
+.meraki-button{
   max-width:100%;
   position:absolute;
   top: 400px;
   z-index:2;
   right: 100px;
+}
+
+.event-button{
+  max-width:100%;
+  position:absolute;
+  top: 460px;
+  z-index:2;
+  right: 150px;
 }
 
 .meraki-mobile,.event-mobile{
