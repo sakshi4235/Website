@@ -673,3 +673,22 @@ color: #1FE0BD;
   margin-bottom:1.5rem;
   margin-left: 1.5rem;
 }
+
+.meraki-event{
+  position:relative;
+  
+}
+.meraki-main-image{
+  max-width:100%;
+  top: 0;
+  left: 0;
+  z-index:0;
+}
+
+.meraki-button{
+  max-width:100%;
+  position:absolute;
+  top: 400px;
+  z-index:2;
+  right: 100px;
+}
