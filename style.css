@@ -679,7 +679,7 @@ color: #1FE0BD;
   
 }
 .meraki-main-image{
-  max-width:100%;
+  width:100%;
   top: 0;
   left: 0;
   z-index:0;
