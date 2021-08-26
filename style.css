@@ -692,3 +692,7 @@ color: #1FE0BD;
   z-index:2;
   right: 100px;
 }
+
+.meraki-mobile{
+  display:none;
+}
