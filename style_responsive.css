@@ -87,9 +87,17 @@
       padding:50%;
     }
       
-      .meraki-button{
-      top: 55%;
-      right: 5%;
-    }
+      .meraki-main-image{
+  display:none;
+}
+
+.meraki-button{
+  display:none;
+}
+
+.meraki-mobile{
+  display:block;
+    max-width:100%;
+}
   }
   
