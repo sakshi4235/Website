@@ -576,12 +576,7 @@ line-height: 36px;
 color: #1F3EE0;
 }
 
-.meraki{
-  background: url(img/meraki-sketch.png) no-repeat;
-  background-size: 100% 100%;
-  flex:50%;
-  height:600px;
-}
+
 
 .sponsor-image{
   background: #1FE0BD;
