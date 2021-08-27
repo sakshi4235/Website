@@ -21,6 +21,10 @@
     padding-top:20px;
     color: cornflowerblue;
 }
+
+.web-link{
+    max-width:100%;
+}
 .teaser{
     height: 550px;
     background: #36454F;
