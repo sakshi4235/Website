@@ -21,10 +21,12 @@
     padding-top:20px;
     color: cornflowerblue;
 }
-
+.web-h6{
+margin-top:20px;
+}
 .web-link{
-    width:250px;
-    height:150px;
+    width:200px;
+    height:100px;
 }
 .teaser{
     height: 550px;
@@ -86,7 +88,7 @@
         width: 100%;
         height: 550px;}
     .meraki_content, .meraki_image{
-        height: 600px;
+        height: 700px;
     }
     .teaser{
         height: 500px;}
@@ -111,7 +113,7 @@
         .rules1, .rules2{
             height: 650px;}
     .meraki_content{
-        height:650px;
+        height:750px;
     }
 }
 @media screen and (max-width: 500px){
@@ -149,7 +151,7 @@
         }
         @media screen and (max-width: 400px){
             .meraki_content{
-                height:650px;
+                height:750px;
             }
                 .rules1, .rules2{
                         height: 850px;
