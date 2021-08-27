@@ -23,7 +23,8 @@
 }
 
 .web-link{
-    max-width:100%;
+    width:250px;
+    height:150px;
 }
 .teaser{
     height: 550px;
@@ -91,6 +92,10 @@
         height: 500px;}
     .teaser video{
         height: 325px;}
+    
+    .rules{
+        display:none;
+    }
 }
 @media screen and (max-width: 640px){
     .part_img{
@@ -106,7 +111,7 @@
         .rules1, .rules2{
             height: 650px;}
     .meraki_content{
-        height:600px;
+        height:650px;
     }
 }
 @media screen and (max-width: 500px){
