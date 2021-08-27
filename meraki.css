@@ -10,7 +10,7 @@
 .meraki_content{
     padding-left:3.5rem;
     padding-right: 3.5rem;
-    padding-bottom:7%;
+    padding-bottom:5%;
 }
 .meraki_content h1{
     margin-top: 80px;
@@ -28,7 +28,7 @@ margin-top:20px;
 }
 .web-link{
     width:120px;
-    height:60px;
+    height:50px;
 }
 .teaser{
     height: 550px;
@@ -96,7 +96,9 @@ margin-top:20px;
         height: 500px;}
     .teaser video{
         height: 325px;}
-    
+    .rules2{
+        padding-bottom:5%;
+    }
     #rules{
         display:none;
     }
